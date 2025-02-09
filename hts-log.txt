@@ -1,12 +1,24 @@
-HTTrack3.49-2+htsswf+htsjava launched on Wed, 03 Apr 2024 22:12:44 at https://www.nytp.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.nytp.com/ -O1 "C:\My Web Sites\TechLadder_Website\Techladder" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
-
-Information, Warnings and Errors reported for this mirror:
-note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
-	such as username/password authentication for websites mirrored in this project
-	do not share these files/folders if you want these information to remain private
-
-22:19:24	Warning: 	Retry after error -4 (No data (connection closed)) at link code.jquery.com/jquery-latest.js (from https://www.nytp.com/)
-
-HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 51 seconds : 280 links scanned, 278 files written (58990148 bytes overall) [41597149 bytes received at 88316 bytes/sec], 23367432 bytes transferred using HTTP compression in 150 files, ratio 24%, 1.5 requests per connection
-(No errors, 1 warnings, 0 messages)
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 03 Apr 2024 22:12:44 at https://www.techladder.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+www.techladder.io
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.techladder.io/ -O1 "C:\My Web Sites\TechLadder_Website\Techladder" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,www.techladder.io
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+22:19:24	Warning: 	Retry after error -4 (No data (connection closed)) at link code.jquery.com/jquery-latest.js (from https://www.techladder.io/)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 51 seconds : 280 links scanned, 278 files written (58990148 bytes overall) [41597149 bytes received at 88316 bytes/sec], 23367432 bytes transferred using HTTP compression in 150 files, ratio 24%, 1.5 requests per connection
+
+(No errors, 1 warnings, 0 messages)
+
